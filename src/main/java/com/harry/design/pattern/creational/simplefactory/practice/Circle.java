@@ -1,0 +1,17 @@
+package com.harry.design.pattern.creational.simplefactory.practice;
+
+/**
+ * create by： harry
+ * date:  2019/7/28 0028
+ **/
+public class Circle extends GeometricShape {
+    @Override
+    void draw() {
+        System.out.println("绘制圆形");
+    }
+
+    @Override
+    void erase() {
+        System.out.println("擦除圆形");
+    }
+}

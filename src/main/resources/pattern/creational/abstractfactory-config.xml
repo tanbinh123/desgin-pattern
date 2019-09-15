@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <className>com.harry.design.pattern.creational.abstractfactory.practice.SymbianGameFactory</className>
+</config>
